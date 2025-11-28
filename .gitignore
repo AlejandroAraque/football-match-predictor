@@ -1,0 +1,12 @@
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Archivos de sistema y temporales
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Datos 
+data/raw/
